@@ -1,2 +1,2 @@
 # DrugWeave
-Gene Ontology aided Compound Protein Binding Affinity Prediction Using BERT Encoding
+Gene Ontology aided Compound Protein Binding Affinity Prediction 
